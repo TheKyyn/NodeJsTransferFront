@@ -1,6 +1,8 @@
-# NodeJsTransferFront - Frontend
+# NodeJsTransfer - Frontend
 
 Ce repository contient le frontend du projet NodeJsFinal, une interface utilisateur Vue.js pour gérer le serveur de fichiers.
+
+### Ce repository correspond à la partie Frontend du projet 'NodeJsTransfert', afin de pouvoir le tester et en profiter dans son intégralité, je vous invite à vous rendre [ici](https://github.com/TheKyyn/NodeJsFinal).
 
 ## Fonctionnalités
 
